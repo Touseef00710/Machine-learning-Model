@@ -28,6 +28,6 @@ Results
 - A scatter plot compares predicted vs actual math scores.
 
 
-## ✅ Conclusion
+Conclusion
 This analysis provides insight into how factors like gender, test preparation, and parental education level influence student math scores.
 
